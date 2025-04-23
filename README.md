@@ -2,8 +2,7 @@
 
 # 📊 TrackIt
 
-**TrackIt** एक वेब-आधारित एप्लिकेशन है जिसे Python Flask, MySQL, HTML, CSS, और JavaScript की मदद से बनाया गया है। यह ऐप यूज़र डेटा को इनपुट, ट्रैक और मैनेज करने की सुविधा देता है। साथ ही CSV फाइलों के ज़रिए डेटा को export/import भी किया जा सकता है।
-
+TrackIt is a web-based application built using Python Flask, MySQL, HTML, CSS, and JavaScript. This app allows users to input, track, and manage data. It also supports importing and exporting data through CSV files.
 ---
 
 ## 🚀 Features
